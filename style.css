@@ -1,0 +1,16 @@
+.heading{
+    width: 80%;
+    font-size: medium;
+}
+body{
+    background-color: cornflowerblue;
+    color: cornsilk;
+}
+.objects{
+    color : black;
+}
+#camera , #snapshot{
+    border: 2px dotted black;
+    width: 350;
+    height: 300;
+}
